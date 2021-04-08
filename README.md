@@ -1,3 +1,3 @@
 ### Hi there 👋
-![](http://antzuhl.cn:4000/get/@HuangDaohong.README)
+![](https://visitor-badge.glitch.me/badge?page_id=HuangDaohong.readme)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HuangDaohong&theme=vue-dark)
