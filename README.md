@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huangdaohong&label=Profile%20views&color=0e75b6&style=flat" alt="huangdaohong" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huangdaohong" alt="huangdaohong" /></a> </p>
-
 - 📫 How to reach me **2224397297@qq.com**
 
 - ⚡ Fun fact **I think i am funny**
