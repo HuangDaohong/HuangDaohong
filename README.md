@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="js" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" align="center" alt="js" height="30" width="40">
 </div>
-
+<!-- 
 ##
   
-![Snake animation](https://github.com/wujihua118/wujihua118/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wujihua118/wujihua118/blob/output/github-contribution-grid-snake.svg) -->
