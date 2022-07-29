@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HuangDaohong</h1>
 <h3 align="center">Undergraduate at Njtech University</h3>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=tsejx.tsejx)
+
 
 
 - 🏡 Welcome to <a href="https://hdhblog.cn/" target="_blank">  My Blog</a>
@@ -20,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" alt="js" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="js" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" align="center" alt="js" height="30" width="40">
+  ![](https://visitor-badge.laobi.icu/badge?page_id=tsejx.tsejx)
 </div>
 <!-- 
 ##
