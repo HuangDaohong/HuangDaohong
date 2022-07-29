@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HuangDaohong</h1>
 <h3 align="center">Undergraduate at Njtech University</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=huangdaohong&label=Vistors&color=0e75b6&style=flat" alt="huangdaohong" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=huangdaohong&theme=radical&show_icons=true" alt="huangdaohong" /> </p>
 
 - 📫 How to reach me **2224397297@qq.com**
 
