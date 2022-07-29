@@ -1,4 +1,4 @@
-<img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/2.gif" height="50px" width="100%" />
+<!-- <img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/2.gif" height="50px" width="100%" /> -->
 
 <h1 align="center">Hi 👋, I'm HuangDaohong</h1>
 <h3 align="center">Undergraduate at Njtech University</h3>
@@ -28,4 +28,4 @@
 </div>
 
 <br/>
-<img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/3.gif" height="50px" width="100%" />
+<!-- <img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/3.gif" height="50px" width="100%" /> -->
