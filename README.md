@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm HuangDaohong</h1>
 <h3 align="center">Undergraduate at Njtech University</h3>
 
-
-<div align="center">![](https://visitor-badge.laobi.icu/badge?page_id=tsejx.tsejx) </div>
+![](https://visitor-badge.laobi.icu/badge?page_id=tsejx.tsejx)
 
 
 - 🏡 Welcome to <a href="https://hdhblog.cn/" target="_blank">  My Blog</a>
