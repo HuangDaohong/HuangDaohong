@@ -6,6 +6,7 @@
 
 - 🏡 Welcome to <a href="https://hdhblog.cn/" target="_blank">  My Blog</a>
 - 📫 How to reach me **2224397297@qq.com**
+- ![](https://visitor-badge.laobi.icu/badge?page_id=tsejx.tsejx)
 
 <!-- - ⚡ Fun fact **珠丸之珍，雀不祈弹。 金鼎之贵，鱼不求烹。 富贵长生，天作主由不得我。 钢骨正气，我作主由不得天。** -->
 - ✨汇总
@@ -23,5 +24,5 @@
   
 </div>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=tsejx.tsejx)
+
 
