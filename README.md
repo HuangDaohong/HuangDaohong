@@ -10,8 +10,11 @@
 - ✨汇总
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huangdaohong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+- 🌱 Visitor Count 🌱
+<img src="https://profile-counter.glitch.me/huangdaohong/count.svg" />
 
-<div align="center" style="display: inline-block;"><br />
+- 👯skills
+<div  style="display: inline-block;"><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="js" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="js" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="js" height="30" width="40">
@@ -21,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" align="center" alt="js" height="30" width="40">
   
 </div>
-🌱 Visitor Count 🌱
-<img src="https://profile-counter.glitch.me/huangdaohong/count.svg" />
+
 
 
