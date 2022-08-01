@@ -11,7 +11,7 @@
 <!-- - ⚡ Fun fact **珠丸之珍，雀不祈弹。 金鼎之贵，鱼不求烹。 富贵长生，天作主由不得我。 钢骨正气，我作主由不得天。** -->
 - ✨Summary
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huangdaohong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuangDaohong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huangdaohong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 - 🌱 Visitor Count 🌱
 <img src="https://profile-counter.glitch.me/huangdaohong/count.svg" />
 
