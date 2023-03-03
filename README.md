@@ -9,11 +9,11 @@
 - 🏡 Welcome to My Blog👉 <a href="https://hdhblog.cn/" target="_blank">Huang Blog</a>
 - 📫 How to reach me **2224397297@qq.com**
 <!-- - ⚡ Fun fact **珠丸之珍，雀不祈弹。 金鼎之贵，鱼不求烹。 富贵长生，天作主由不得我。 钢骨正气，我作主由不得天。** -->
-- ✨Summary
+<!-- - ✨Summary
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huangdaohong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 - 🌱 Visitor Count 🌱
-<img src="https://profile-counter.glitch.me/huangdaohong/count.svg" />
+<img src="https://profile-counter.glitch.me/huangdaohong/count.svg" /> -->
 
 - 👯Skills
 <div  style="display: inline-block;"><br />
