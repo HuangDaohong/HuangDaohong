@@ -12,11 +12,11 @@
 <!-- - ✨Summary
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huangdaohong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /> -->
 - 🌱 Visitor Count 🌱
-&emsp;&emsp;<img src="https://profile-counter.glitch.me/huangdaohong/count.svg" />
+&emsp;<img src="https://profile-counter.glitch.me/huangdaohong/count.svg" />
 
 - 👯Skills
 <div  style="display: inline-block;"><br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="js" height="30" width="40">
+  &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="js" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="js" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="js" height="30" width="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" alt="js" height="30" width="40">
