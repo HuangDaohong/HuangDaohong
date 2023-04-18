@@ -1,14 +1,15 @@
 
-<img style="height:80px;width:100%;" src="https://github.com/HuangDaohong/HuangDaohong/tree/main/src/imgs/2.gif" height="80px" width="100%" />
+<img style="height:180px;width:100%;" src="https://github.com/HuangDaohong/HuangDaohong/blob/main/src/imgs/2.gif" height="180px" width="100%" />
 <div align="center">
 <h1>Hi 👋, I'm HuangDaohong</h1>
-<h3>A graduate student at Njtech University</h3>
+
+<span>📫 A second-year graduate student at Nanjing University of Technology</span>
   
 🏡 Welcome to <a href="https://hdhblog.cn/" target="_blank">Huang Blog 👉 https://hdhblog.cn/</a>
  
 📫 How to reach me 2224397297@qq.com
 
- 🌱 Visitor Count 🌱
+ 🌱 Visitor Count 
   
   <img src="https://profile-counter.glitch.me/huangdaohong/count.svg" /><br/>
   
@@ -24,4 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" align="center" alt="js" height="30" width="40">
 </div>
 <br/><br/>
-<img style="height:80px;width:100%;" src="https://github.com/HuangDaohong/HuangDaohong/tree/main/src/imgs/3.gif" height="80px" width="100%" />
+<img style="height:180px;width:100%;" src="https://github.com/HuangDaohong/HuangDaohong/blob/main/src/imgs/3.gif" height="180px" width="100%" />
