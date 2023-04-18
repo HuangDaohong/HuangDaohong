@@ -4,9 +4,9 @@
 <h1>Hi 👋, I'm HuangDaohong</h1>
 <h3>A graduate student at Njtech University</h3>
   
-🏡 Welcome to My Blog👉 <a href="https://hdhblog.cn/" target="_blank">Huang Blog</a>
+🏡 Welcome to <a href="https://hdhblog.cn/" target="_blank">Huang Blog 👉 https://hdhblog.cn/</a>
  
-📫 How to reach me **2224397297@qq.com**
+📫 How to reach me 2224397297@qq.com
 
  🌱 Visitor Count 🌱
   
